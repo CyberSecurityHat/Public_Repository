@@ -1,0 +1,5 @@
+filter : TCP
+Packet : [PSH, ACK]
+
+Check the data
+flag : actf{wireshark_doo_doo_doo_doo_doo_doo}
